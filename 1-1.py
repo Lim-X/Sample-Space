@@ -1,11 +1,10 @@
 print("Hello Anaconda!")
 print("Hello")
 
+import requests
 import math
 import sys
 from os import rename
-
-import requests
 
 print(sys.executable)
 print(sys.version)
